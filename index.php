@@ -90,7 +90,7 @@ $nav_active = 'home';
 
             <form id="quick-scanner-form">
                 <div class="scanner-box">
-                    <input type="text" id="quick-scanner-input" class="scanner-input" placeholder="e.g. sbi-kyc-verification.xyz or paste SMS text..." value="sbi-kyc-update.xyz" required autocomplete="off">
+                    <input type="text" id="quick-scanner-input" class="scanner-input" placeholder="e.g. sbi-kyc-verification.xyz or paste SMS text..." required autocomplete="off">
                     <button type="submit" id="quick-scanner-btn" class="btn btn-primary" style="white-space:nowrap;display:inline-flex;align-items:center;justify-content:center;gap:8px;">Inspect Risk →</button>
                 </div>
             </form>
